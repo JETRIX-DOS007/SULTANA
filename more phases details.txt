@@ -1,0 +1,10 @@
+1.replace stack Instead subscribe
+2.portfolio and invester spelling mistake
+3.contract purchase_token no payable
+add one integer to get total no  tokens 
+4.uint x= calculate the value of  purchasing token;token rate ill be called in market token
+5.man1.tranfer(x);
+6.in market token fallback function
+   uint token=msg.value/rate;
+	tranfer(contrac addr,msg.sender);
+7. it should be done by portfolio
